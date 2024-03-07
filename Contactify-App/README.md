@@ -1,3 +1,3 @@
-# CRUD-Room-MVVM-Compose-Android-Studio
+# CRUD-Contactify
 
 "CRUD con Room usando MVVM en Jetpack Compose Kotlin Android Studio
